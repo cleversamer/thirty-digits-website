@@ -50,7 +50,7 @@ const Header = ({ location }) => {
                 path === "/" ? "active-link" : ""
               } text-lg px-5 no-underline hover:underline`}
               type="link"
-              href=""
+              href="/"
             >
               Home
             </Button>
