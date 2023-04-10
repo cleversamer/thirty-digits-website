@@ -18,7 +18,7 @@ const Hero = () => {
           </p>
 
           <Button
-            href="/project"
+            href="/projects"
             type="link"
             className="flex w-71 h-18 items-center px-14 py-5 text-white text-xl bg-theme-purple rounded-lg shadow-2xl hover:bg-dark-theme-purple transition duration-200"
           >
