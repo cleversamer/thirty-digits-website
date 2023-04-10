@@ -19,18 +19,16 @@ const Footer = () => {
             <h1 className="text-lg text-theme-blue pt-4 pb-2">Office</h1>
 
             <p className="text-lg text-gray-400 font-light">
-              rac.hafidz@gmail.com
+              digitsthirty@gmail.com
             </p>
 
-            <p className="text-lg text-gray-400 font-light">
-              Klaten, Central Java, Indonesia
-            </p>
+            <p className="text-lg text-gray-400 font-light">Palestine, Gaza</p>
           </div>
 
           <div className="w-1/3 ml-16 sm:ml-0 mt-0">
             <h1 className="text-lg text-theme-blue pt-4 pb-2">Social</h1>
             <Button
-              href="https://www.instagram.com/racmathafidz/"
+              href="https://www.instagram.com/thirtydigits/"
               type="link"
               target="_blank"
               className="flex text-lg text-gray-400 font-light hover:underline"
@@ -40,47 +38,45 @@ const Footer = () => {
             </Button>
 
             <Button
-              href="https://www.linkedin.com/in/racmat-hafidz-89982a156/"
+              href="https://www.twitter.com/thirtydigits/"
               type="link"
               target="_blank"
               className="flex text-lg text-gray-400 font-light hover:underline"
               isExternal
             >
-              LinkedIn
+              Twitter
             </Button>
 
             <Button
-              href="https://github.com/racmathafidz"
+              href="https://wa.me/970599995488"
               type="link"
               target="_blank"
               className="flex text-lg text-gray-400 font-light hover:underline"
               isExternal
             >
-              Github
+              WhatsApp
+            </Button>
+
+            <Button
+              href="mailto:digitsthirty@gmail.com"
+              type="link"
+              target="_blank"
+              className="flex text-lg text-gray-400 font-light hover:underline"
+              isExternal
+            >
+              Gmail
             </Button>
           </div>
         </div>
 
         <div className="flex-col text-center mt-7">
-          <p className="text-lg text-gray-400 font-light">
-            Copyright 2021 - All rights reserved - Racxstudio
+          <p className="text-lg text-gray-400 font-light capitalize">
+            Copyright {new Date().getFullYear()} - All rights reserved -{" "}
+            <span className="text-theme-blue font-medium">
+              <span className="text-theme-purple">thirty</span>
+              Digits
+            </span>
           </p>
-
-          <div className="flex-row">
-            <p className="inline-block text-lg text-gray-400 font-light">
-              Made with &#x2764; by&nbsp;
-            </p>
-
-            <Button
-              href="https://github.com/racmathafidz"
-              type="link"
-              target="_blank"
-              className="text-lg text-theme-purple font-light"
-              isExternal
-            >
-              Racmat Hafidz Fadli
-            </Button>
-          </div>
         </div>
       </div>
     </div>
