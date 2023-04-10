@@ -66,7 +66,7 @@ const Portfolio = ({ data }) => {
 
       <Fade bottom>
         <Button
-          href="/project"
+          href="/projects"
           type="link"
           className="flex flex-grow-0 w-36 h-12 sm:w-40 sm:h-14 lg:w-44 lg:h-16 xl:w-36 xl:h-12 text-theme-purple px-5 border border-theme-purple items-center mt-14 rounded-full justify-center transition duration-300 hover:bg-theme-purple hover:text-white"
         >
