@@ -9,7 +9,7 @@ const Service = ({ data }) => {
             Our Service
           </h1>
 
-          <p className="font-light text-lg text-gray-400 text-center mb-12">
+          <p className="font-light text-lg text-gray-400 text-center mb-12 px-5">
             We are ready to scale up your business with our great service.
           </p>
         </Fade>
