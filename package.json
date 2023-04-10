@@ -1,6 +1,6 @@
 {
-  "name": "tailwind-racxstudio",
-  "version": "0.1.0",
+  "name": "thirty-digits",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.1",
