@@ -22,7 +22,7 @@ const PortfolioDetail = ({ data }) => {
 
             <div className="flex justify-center">
               <Button
-                href="/project"
+                href="/projects"
                 type="link"
                 className="flex w-30 h-10 px-5 mt-5 bg-theme-blue text-white items-center rounded transform transition duration-500 hover:bg-gray-900"
               >
@@ -40,7 +40,7 @@ const PortfolioDetail = ({ data }) => {
       <Fade bottom>
         <Button
           type="link"
-          href="/project"
+          href="/projects"
           className="flex w-40 h-8 text-lg items-center ml-6 sm:ml-20 mt-8 font-light text-gray-400 hover:underline"
         >
           <svg
