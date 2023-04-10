@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 10px; /* Add border radius */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #6610f2;
+  border-radius: 10px; /* Add border radius */
+}
+
 section {
   @apply mb-28;
 }
