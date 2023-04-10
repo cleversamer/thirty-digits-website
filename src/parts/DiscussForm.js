@@ -50,7 +50,7 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
           Lets Discuss
         </h1>
 
-        <p className="font-light text-lg text-gray-400 text-center mb-12">
+        <p className="font-light text-lg text-gray-400 text-center mb-12 px-5">
           Please fill out the form below to discuss your project and we'll get
           back to you in less than 24 hours.
         </p>
