@@ -10,7 +10,7 @@ const App = () => {
   return (
     <Switch>
       <Route exact path="/" component={LandingPage} />
-      <Route exact path="/project" component={ProjectPage} />
+      <Route exact path="/projects" component={ProjectPage} />
       <Route exact path="/project/:id" component={ProjectDetailPage} />
       <Route exact path="/team" component={TeamPage} />
       <Route exact path="/discuss-project" component={DiscussProjectPage} />

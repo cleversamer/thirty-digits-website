@@ -71,12 +71,12 @@ const Header = ({ location }) => {
           <li className="py-2 lg:py-0">
             <Button
               className={`${
-                path === "/project" ? "active-link" : ""
+                path === "/projects" ? "active-link" : ""
               } text-lg px-5 no-underline hover:underline`}
               type="link"
-              href="/project"
+              href="/projects"
             >
-              Project
+              Projects
             </Button>
           </li>
 
@@ -130,12 +130,12 @@ const Header = ({ location }) => {
             <li className="py-2 bg-white">
               <Button
                 className={`${
-                  path === "/project" ? "active-link" : ""
+                  path === "/projects" ? "active-link" : ""
                 } px-10 no-underline hover:underline`}
                 type="link"
-                href="/project"
+                href="/projects"
               >
-                Project
+                Projects
               </Button>
             </li>
 
