@@ -27,7 +27,7 @@ const Testimonial = ({ data }) => {
                   <img
                     src={item.imageUrl}
                     alt="Testimoni"
-                    className="w-20 h-20 rounded-full"
+                    className="w-20 h-20 rounded-full object-cover"
                   />
 
                   <div className="flex-col pl-5">

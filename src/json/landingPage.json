@@ -133,12 +133,6 @@
   ],
   "testimonial": [
     {
-      "name": "Sasha Rose",
-      "company": "Owner, Surveyor Corps",
-      "testimoni": "Thanks for ThirtyDigits, you guys are the best! Keep up the great work!",
-      "imageUrl": "/assets/images/Sasha.jpg"
-    },
-    {
       "name": "Kruger Khan",
       "company": "Director, Shultan Oil",
       "testimoni": "I just wanted to let you know that it's been great working with ThirtyDigits.",
@@ -146,9 +140,15 @@
     },
     {
       "name": "Reiner John",
-      "company": "CEO, Marley CO",
+      "company": "CEO, Marley Co.",
       "testimoni": "ThirtyDigits is so great. Thank you so much for a job well done.",
       "imageUrl": "/assets/images/Reiner.jpg"
+    },
+    {
+      "name": "Abdullah Ali",
+      "company": "Owner, Surveyor Corps",
+      "testimoni": "Thanks for ThirtyDigits, you guys are the best! Keep up the great work!",
+      "imageUrl": "/assets/images/Abdullah-Ali.jpg"
     }
   ],
   "team": [
