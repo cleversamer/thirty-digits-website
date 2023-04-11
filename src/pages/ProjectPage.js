@@ -5,6 +5,7 @@ import Discuss from "parts/Discuss";
 import Footer from "parts/Footer";
 import AllPortfolio from "parts/AllPortfolio";
 import Data from "json/landingPage.json";
+import WhatsApp from "parts/WhatsApp";
 
 const ProjectPage = (props) => {
   useEffect(() => {
@@ -18,6 +19,7 @@ const ProjectPage = (props) => {
       <AllPortfolio data={Data.portfolio} />
       <Discuss {...props} />
       <Footer />
+      <WhatsApp />
     </>
   );
 };

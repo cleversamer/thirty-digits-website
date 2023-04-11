@@ -24,7 +24,7 @@ const WhatsApp = () => {
       href="https://wa.me/970599995488"
       target="_blank"
       rel="noreferrer"
-      className={`fixed bottom-7 right-7 w-20 shadow-light-purple block rounded-full p-3 transition-opacity duration-500 ${
+      className={`fixed bottom-6 right-7 w-20 shadow-light-purple block rounded-full p-3 transition-opacity duration-500 ${
         isVisible ? "opacity-100" : "opacity-0"
       }`}
     >

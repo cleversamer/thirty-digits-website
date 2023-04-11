@@ -4,6 +4,7 @@ import HeroTeam from "parts/HeroTeam";
 import AllTeam from "parts/AllTeam";
 import Footer from "parts/Footer";
 import Data from "json/landingPage.json";
+import WhatsApp from "parts/WhatsApp";
 
 const TeamPage = (props) => {
   useEffect(() => {
@@ -16,6 +17,7 @@ const TeamPage = (props) => {
       <HeroTeam {...props} />
       <AllTeam data={Data.team} />
       <Footer />
+      <WhatsApp />
     </>
   );
 };

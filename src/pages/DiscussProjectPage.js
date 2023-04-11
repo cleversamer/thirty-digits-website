@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Header from "parts/Header";
 import DiscussForm from "parts/DiscussForm";
 import Footer from "parts/Footer";
+import WhatsApp from "parts/WhatsApp";
 
 const DiscussProjectPage = (props) => {
   const [data, setData] = useState({
@@ -38,6 +39,7 @@ const DiscussProjectPage = (props) => {
       <Header {...props} />
       <DiscussForm data={data} onChange={onChange} resetForm={resetForm} />
       <Footer />
+      <WhatsApp />
     </>
   );
 };

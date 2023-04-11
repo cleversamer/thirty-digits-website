@@ -3,6 +3,7 @@ import Header from "parts/Header";
 import PortfolioDetail from "parts/PortfolioDetail";
 import Footer from "parts/Footer";
 import Data from "json/landingPage.json";
+import WhatsApp from "parts/WhatsApp";
 
 const ProjectDetailPage = (props) => {
   useEffect(() => {
@@ -20,6 +21,7 @@ const ProjectDetailPage = (props) => {
         data={detailData.length === 1 ? [detailData[0]] : null}
       />
       <Footer />
+      <WhatsApp />
     </>
   );
 };
