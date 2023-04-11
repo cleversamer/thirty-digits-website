@@ -1,188 +1,162 @@
 {
-    "service" : [
-        {
-            "title": "Web Development",
-            "imageUrl": "assets/images/Web.png"
-        },
-        {
-            "title": "Mobile Development",
-            "imageUrl": "assets/images/Mobile.png"
-        },
-        {
-            "title": "UI/UX Design",
-            "imageUrl": "assets/images/Design.png"
-        }
+  "service": [
+    {
+      "title": "Web Development",
+      "imageUrl": "/assets/images/Web.png"
+    },
+    {
+      "title": "Mobile Development",
+      "imageUrl": "/assets/images/Mobile.png"
+    },
+    {
+      "title": "UI/UX Design",
+      "imageUrl": "/assets/images/Design.png"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "recruiting-app",
+      "title": "Recruiting App",
+      "imageUrl": "/assets/images/Recruiting.png",
+      "type": "Mobile Apps",
+      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
+    },
+    {
+      "id": "stream-plus",
+      "title": "Stream+",
+      "imageUrl": "/assets/images/Stream.png",
+      "type": "Mobile Apps",
+      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "credit": "https://dribbble.com/shots/15276430-Stream"
+    },
+    {
+      "id": "freelance",
+      "title": "Freelance",
+      "imageUrl": "/assets/images/Freelance.png",
+      "type": "Mobile Apps",
+      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+    },
+    {
+      "id": "aura",
+      "title": "Aura",
+      "imageUrl": "/assets/images/Aura.png",
+      "type": "Website",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"
+    },
+    {
+      "id": "surtido-rico",
+      "title": "Surtido Rico",
+      "imageUrl": "/assets/images/Surtido.png",
+      "type": "Website",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+    },
+    {
+      "id": "courses-management",
+      "title": "Courses Management",
+      "imageUrl": "/assets/images/ManagementApp.png",
+      "type": "Website",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+    }
+  ],
+  "advantage": [
+    [
+      {
+        "title": "Communicative",
+        "description": "We communicate our project ideas and progress to make it clear.",
+        "imageUrl": "/assets/images/Communicative.png"
+      },
+      {
+        "title": "Management",
+        "description": "We manage our project properly to make our project done well.",
+        "imageUrl": "/assets/images/Management.png"
+      }
     ],
-    "portfolio" : [
-        {
-            "id": "recruiting-app",
-            "title": "Recruiting App",
-            "imageUrl": "assets/images/Recruiting.png",
-            "type": "Mobile Apps",
-            "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
-        },
-        {
-            "id": "stream-plus",
-            "title": "Stream+",
-            "imageUrl": "assets/images/Stream.png",
-            "type": "Mobile Apps",
-            "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15276430-Stream"
-        },
-        {
-            "id": "freelance",
-            "title": "Freelance",
-            "imageUrl": "assets/images/Freelance.png",
-            "type": "Mobile Apps",
-            "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
-        },
-        {
-            "id": "aura",
-            "title": "Aura",
-            "imageUrl": "assets/images/Aura.png",
-            "type": "Website",
-            "responsibility": [
-                "Web Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
-        },
-        {
-            "id": "surtido-rico",
-            "title": "Surtido Rico",
-            "imageUrl": "assets/images/Surtido.png",
-            "type": "Website",
-            "responsibility": [
-                "Web Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
-        },
-        {
-            "id": "courses-management",
-            "title": "Courses Management",
-            "imageUrl": "assets/images/ManagementApp.png",
-            "type": "Website",
-            "responsibility": [
-                "Web Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
-        }
-    ],
-    "advantage": [
-        [{
-            "title": "Communicative",
-            "description": "We communicate our project ideas and progress to make it clear.",
-            "imageUrl": "assets/images/Communicative.png"
-        },
-        {
-            "title": "Management",
-            "description": "We manage our project properly to make our project done well.",
-            "imageUrl": "assets/images/Management.png"
-        }],
-        [{
-            "title": "Collaborative​",
-            "description": "Our team are very collaborative to make our project done well.",
-            "imageUrl": "assets/images/Collaborative.png"
-        },
-        {
-            "title": "Favourite",
-            "description": "We've did so many project and all of our client love it.",
-            "imageUrl": "assets/images/Favourite.png"
-        }]
-    ],
-    "testimonial": [
-        {
-            "name": "Sasha Rose",
-            "company": "Owner, Surveyor Corps",
-            "testimoni": "Thanks for ThirtyDigits, you guys are the best! Keep up the great work!",
-            "imageUrl": "assets/images/Sasha.jpg"
-        },
-        {
-            "name": "Kruger Khan",
-            "company": "Director, Shultan Oil",
-            "testimoni": "I just wanted to let you know that it's been great working with ThirtyDigits.",
-            "imageUrl": "assets/images/Kruger.jpg"
-        },
-        {
-            "name": "Reiner John",
-            "company": "CEO, Marley CO",
-            "testimoni": "ThirtyDigits is so great. Thank you so much for a job well done.",
-            "imageUrl": "assets/images/Reiner.jpg"
-        }
-    ],
-    "team": [
-        {
-            "name": "Rach David",
-            "position": "CEO",
-            "imageUrl": "assets/images/CEO.jpg"
-        },
-        {
-            "name": "Pauline Sydney",
-            "position": "HRD",
-            "imageUrl": "assets/images/HRD.jpg"
-        },
-        {
-            "name": "Granger Watterson",
-            "position": "Finance",
-            "imageUrl": "assets/images/Finance.jpg"
-        },
-        {
-            "name": "Tom Jimmy",
-            "position": "Project Manager",
-            "imageUrl": "assets/images/Project-manager.jpg"
-        },
-        {
-            "name": "Jim Hendrix",
-            "position": "Front-end Developer",
-            "imageUrl": "assets/images/Frontend1.jpg"
-        },
-        {
-            "name": "Calvin Max",
-            "position": "Front-end Developer",
-            "imageUrl": "assets/images/Frontend2.jpg"
-        },
-        {
-            "name": "Hawkins Jim",
-            "position": "Back-end Developer",
-            "imageUrl": "assets/images/Backend1.jpg"
-        },
-        {
-            "name": "Don Bizaro",
-            "position": "Back-end Developer",
-            "imageUrl": "assets/images/Backend2.jpg"
-        },
-        {
-            "name": "Bill Markinson",
-            "position": "Mobile Developer",
-            "imageUrl": "assets/images/Mobile1.jpg"
-        },
-        {
-            "name": "Igor Kavarov",
-            "position": "Mobile Developer",
-            "imageUrl": "assets/images/Mobile2.jpg"
-        },
-        {
-            "name": "Freddie Curl",
-            "position": "UI/UX Designer",
-            "imageUrl": "assets/images/UIUX2.jpg"
-        },
-        {
-            "name": "Monica Lovegood",
-            "position": "UI/UX Designer",
-            "imageUrl": "assets/images/UIUX1.jpg"
-        }
+    [
+      {
+        "title": "Collaborative​",
+        "description": "Our team are very collaborative to make our project done well.",
+        "imageUrl": "/assets/images/Collaborative.png"
+      },
+      {
+        "title": "Favourite",
+        "description": "We've did so many project and all of our client love it.",
+        "imageUrl": "/assets/images/Favourite.png"
+      }
     ]
+  ],
+  "testimonial": [
+    {
+      "name": "Sasha Rose",
+      "company": "Owner, Surveyor Corps",
+      "testimoni": "Thanks for ThirtyDigits, you guys are the best! Keep up the great work!",
+      "imageUrl": "/assets/images/Sasha.jpg"
+    },
+    {
+      "name": "Kruger Khan",
+      "company": "Director, Shultan Oil",
+      "testimoni": "I just wanted to let you know that it's been great working with ThirtyDigits.",
+      "imageUrl": "/assets/images/Kruger.jpg"
+    },
+    {
+      "name": "Reiner John",
+      "company": "CEO, Marley CO",
+      "testimoni": "ThirtyDigits is so great. Thank you so much for a job well done.",
+      "imageUrl": "/assets/images/Reiner.jpg"
+    }
+  ],
+  "team": [
+    {
+      "name": "Samer Al-Sa'dawi",
+      "position": "CEO",
+      "imageUrl": "/assets/images/CEO.jpg",
+      "socialUrl": "https://twitter.com/cleversamerr/"
+    },
+    {
+      "name": "Pauline Sydney",
+      "position": "HRD",
+      "imageUrl": "/assets/images/HRD.jpg",
+      "socialUrl": ""
+    },
+    {
+      "name": "Granger Watterson",
+      "position": "Finance",
+      "imageUrl": "/assets/images/Finance.jpg",
+      "socialUrl": ""
+    },
+    {
+      "name": "Tom Jimmy",
+      "position": "Project Manager",
+      "imageUrl": "/assets/images/Project-manager.jpg",
+      "socialUrl": ""
+    },
+    {
+      "name": "Jim Hendrix",
+      "position": "Front-end Developer",
+      "imageUrl": "/assets/images/Frontend1.jpg",
+      "socialUrl": ""
+    },
+    {
+      "name": "Calvin Max",
+      "position": "Front-end Developer",
+      "imageUrl": "/assets/images/Frontend2.jpg",
+      "socialUrl": ""
+    },
+    {
+      "name": "Hawkins Jim",
+      "position": "Back-end Developer",
+      "imageUrl": "/assets/images/Backend1.jpg",
+      "socialUrl": ""
+    },
+    {
+      "name": "Don Bizaro",
+      "position": "Back-end Developer",
+      "imageUrl": "/assets/images/Backend2.jpg",
+      "socialUrl": ""
+    }
+  ]
 }
