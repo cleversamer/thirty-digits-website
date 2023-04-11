@@ -24,6 +24,9 @@ module.exports = {
       "7xl": "5rem",
     },
     extend: {
+      boxShadow: {
+        "light-purple": "0 2px 15px rgba(102, 16, 242, 0.3)",
+      },
       colors: {
         "light-theme-purple": "#E3D3FD",
         "theme-purple": "#6610f2",

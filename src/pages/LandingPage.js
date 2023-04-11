@@ -8,6 +8,7 @@ import Testimonial from "parts/Testimonial";
 import Discuss from "parts/Discuss";
 import Footer from "parts/Footer";
 import Data from "json/landingPage.json";
+import WhatsApp from "parts/WhatsApp";
 
 const LandingPage = (props) => {
   useEffect(() => {
@@ -24,6 +25,7 @@ const LandingPage = (props) => {
       <Testimonial data={Data.testimonial} />
       <Discuss />
       <Footer />
+      <WhatsApp />
     </>
   );
 };
