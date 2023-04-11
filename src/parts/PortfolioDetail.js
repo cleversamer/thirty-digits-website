@@ -89,7 +89,7 @@ const PortfolioDetail = ({ data }) => {
                 Details
               </h1>
 
-              <p className="font-light text-lg text-gray-400 text-justify">
+              <p className="font-light text-lg text-gray-400">
                 {item.paragraphs.map((p, index) => (
                   <span key={p + index}>
                     <span>{p}</span>
