@@ -20,7 +20,14 @@
       "imageUrl": "/assets/images/Recruiting.png",
       "type": "Mobile Apps",
       "responsibility": ["Mobile Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
+      "credit": "https://dribbble.com/shots/15164950-Recruiting-app",
+      "paragraphs": [
+        "A Recruiting App is an application that helps companies manage their recruitment processes more efficiently. It provides a streamlined platform for job posting, resume management, candidate screening, interview scheduling, and job offer management.",
+        "Recruiting Apps typically allow companies to create job postings and post them to various job boards and social media platforms, as well as accept resumes and applications directly through the app. Resumes are usually stored in a searchable database, which allows recruiters to quickly find qualified candidates that match specific job requirements.",
+        "The app may also include tools for candidate screening, such as the ability to filter resumes by specific criteria, and score and rank candidates based on their qualifications. It may also offer features for scheduling and conducting interviews, such as a calendar integration and video conferencing.",
+        "Recruiting Apps may integrate with other HR tools, such as applicant tracking systems (ATS), to provide a more comprehensive suite of recruiting and hiring tools. They may also offer analytics and reporting features that provide insights into the recruiting process, such as time-to-hire metrics, applicant sources, and diversity metrics.",
+        "Overall, a Recruiting App can help companies streamline their recruiting processes, improve candidate engagement and experience, and ultimately hire the best talent for their organization."
+      ]
     },
     {
       "id": "stream-plus",
@@ -28,7 +35,14 @@
       "imageUrl": "/assets/images/Stream.png",
       "type": "Mobile Apps",
       "responsibility": ["Mobile Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15276430-Stream"
+      "credit": "https://dribbble.com/shots/15276430-Stream",
+      "paragraphs": [
+        "Stream+ is an application that allows users to stream movies and TV shows on their devices, typically on a subscription basis. These apps provide access to a large catalog of movies and TV shows that can be streamed on-demand, and often include features such as personalized recommendations, user profiles, and offline viewing.",
+        "Movies Streaming Apps usually offer a variety of genres and categories to cater to different tastes and preferences. Users can browse through different titles and select the movie or TV show they want to watch, and then start streaming it on their device. The app typically provides different streaming quality options based on the user's internet speed, ensuring smooth playback.",
+        "Many Movies Streaming Apps also include social features, such as the ability to share movies with friends or discuss them in forums. They may also offer personalized recommendations based on the user's viewing history and preferences, as well as ratings and reviews from other users.",
+        "To enhance user experience, some Movies Streaming Apps offer features like offline viewing, which allows users to download movies or TV shows to watch later when they are not connected to the internet. Other features may include parental controls, allowing parents to restrict access to certain content for their children.",
+        "Overall, a Movies Streaming App provides a convenient and easy way for users to watch movies and TV shows on their devices, giving them access to a vast collection of titles to choose from and watch on their own time."
+      ]
     },
     {
       "id": "freelance",
@@ -36,7 +50,14 @@
       "imageUrl": "/assets/images/Freelance.png",
       "type": "Mobile Apps",
       "responsibility": ["Mobile Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+      "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept",
+      "paragraphs": [
+        "Freelance App is an application that connects freelancers with potential clients or employers for project-based work. The app provides a platform for freelancers to showcase their skills and experience, and for clients to post job opportunities and find suitable candidates.",
+        "Freelancing Apps typically allow freelancers to create a profile that highlights their skills, work experience, and portfolio. This profile can be used to apply for job opportunities that match their skillset, or to be discovered by potential clients who are searching for freelancers with specific skills. Clients can also post job opportunities and invite freelancers to apply for the project.",
+        "The app often includes tools to help freelancers manage their workload, such as a calendar to schedule their time and deadlines, and the ability to track their time and invoice clients for their work. Some apps also offer project management tools that allow freelancers to collaborate with clients and other freelancers on larger projects.",
+        "Freelancing Apps may also include features that help clients manage their projects, such as the ability to communicate with freelancers, track project progress, and release payments for completed work. Some apps also offer dispute resolution services in case of disagreements between freelancers and clients.",
+        "Overall, a Freelancing App provides a platform for freelancers to find work and for clients to find skilled professionals for project-based work. It offers a convenient and efficient way for freelancers to manage their workload and for clients to find suitable candidates for their projects, creating a win-win situation for both parties involved."
+      ]
     },
     {
       "id": "aura",
@@ -44,7 +65,14 @@
       "imageUrl": "/assets/images/Aura.png",
       "type": "Website",
       "responsibility": ["Web Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"
+      "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page",
+      "paragraphs": [
+        "Aura is a Freelancing App that connects freelancers with potential clients or employers for project-based work. The app provides a platform for freelancers to showcase their skills and experience, and for clients to post job opportunities and find suitable candidates.",
+        "Aura offers a user-friendly interface that makes it easy for freelancers to create a profile that highlights their skills, work experience, and portfolio. The platform allows freelancers to apply for job opportunities that match their skillset or be discovered by potential clients who are searching for freelancers with specific skills.",
+        "Aura provides tools to help freelancers manage their workload, such as a calendar to schedule their time and deadlines, and the ability to track their time and invoice clients for their work. The app also offers project management tools that allow freelancers to collaborate with clients and other freelancers on larger projects.",
+        "Aura also includes features that help clients manage their projects, such as the ability to communicate with freelancers, track project progress, and release payments for completed work. The app provides dispute resolution services in case of disagreements between freelancers and clients, ensuring a smooth working relationship for both parties involved.",
+        "Overall, Aura provides a streamlined and efficient platform for freelancers to find work and for clients to find skilled professionals for project-based work. The app creates a win-win situation for both parties involved by providing a convenient and reliable way to connect with each other and complete projects successfully."
+      ]
     },
     {
       "id": "surtido-rico",
@@ -52,7 +80,14 @@
       "imageUrl": "/assets/images/Surtido.png",
       "type": "Website",
       "responsibility": ["Web Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+      "credit": "https://dribbble.com/shots/15173118-Surtido-Rico",
+      "paragraphs": [
+        "Surtido Rico is a clothing store App that provides users with a convenient and seamless shopping experience for high-quality fashion and accessories. The App is designed to cater to fashion-conscious shoppers who want to stay on top of the latest fashion trends.",
+        "Surtido Rico offers an extensive collection of fashion items, ranging from trendy streetwear to elegant formal wear. The App provides a user-friendly interface that allows shoppers to browse products easily and make purchases with just a few clicks.",
+        "Surtido Rico offers personalized recommendations to shoppers based on their shopping history and preferences, ensuring that they discover items that match their unique style. The App also provides detailed product descriptions and high-quality images that help shoppers make informed purchasing decisions.",
+        "Surtido Rico offers a seamless checkout experience, with secure payment processing and quick delivery options. The App also provides easy returns and exchanges for products that do not meet the shopper's expectations.",
+        "Overall, Surtido Rico provides a one-stop-shop for fashion lovers, offering high-quality products, personalized recommendations, and a seamless shopping experience. The App provides a convenient and reliable way for shoppers to stay on top of the latest fashion trends and to discover new items that match their unique style."
+      ]
     },
     {
       "id": "courses-management",
@@ -60,7 +95,14 @@
       "imageUrl": "/assets/images/ManagementApp.png",
       "type": "Website",
       "responsibility": ["Web Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+      "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App",
+      "paragraphs": [
+        "Courses Management is an app designed to help students and educators manage their course-related tasks efficiently. The app provides a user-friendly interface that makes it easy for users to manage their courses, assignments, and grades in one place.",
+        "The Courses Management app allows students to keep track of their courses, assignments, and deadlines. It also provides reminders and notifications to help students stay on top of their tasks and deadlines. The app provides a calendar view that shows all upcoming tasks and deadlines, making it easy for students to plan their time effectively.",
+        "For educators, the Courses Management app provides tools to manage their courses and assignments efficiently. The app allows them to create and manage course materials, assign tasks, and grade student work. The app also provides analytics and reporting features that help educators track student progress and identify areas where students need help.",
+        "Courses Management app also provides a communication platform that allows students and educators to communicate with each other. Students can ask questions and get help with their coursework, while educators can provide feedback and support to their students.",
+        "Overall, the Courses Management app provides a comprehensive solution for managing courses and assignments. The app helps students stay organized and on top of their coursework, while educators can manage their courses and students efficiently. The app provides a convenient and reliable way for students and educators to collaborate and achieve their academic goals."
+      ]
     }
   ],
   "advantage": [

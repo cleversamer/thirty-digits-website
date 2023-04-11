@@ -1,11 +1,14 @@
 import Button from "elements/Button";
-import NotFound from "assets/images/NotFound.png";
 
 const NotFoundPage = () => {
   return (
     <div className="flex flex-col w-full h-screen justify-center bg-gray-800">
       <div className="flex w-full justify-center">
-        <img src={NotFound} alt="Not Found" className="sm:w-3/4 xl:w-5/12" />
+        <img
+          src="/assets/images/NotFound.png"
+          alt="Not Found"
+          className="sm:w-3/4 xl:w-5/12"
+        />
       </div>
 
       <h1 className="text-white text-2xl text-center mt-5">

@@ -57,7 +57,7 @@ const PortfolioDetail = ({ data }) => {
               d="M15 19l-7-7 7-7"
             />
           </svg>
-          See All Project
+          See All Projects
         </Button>
       </Fade>
 
@@ -86,23 +86,27 @@ const PortfolioDetail = ({ data }) => {
           <Fade bottom delay={300 * 1}>
             <div className="flex flex-col mt-16 mb-12 mx-8 sm:mx-16 xl:mx-28">
               <h1 className="text-3xl text-theme-blue font-bold mb-3">
-                Project Detail
+                Details
               </h1>
 
               <p className="font-light text-lg text-gray-400 text-justify">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                {item.paragraphs.map((p, index) => (
+                  <span key={p + index}>
+                    <span>{p}</span>
+                    {index < item.paragraphs.length - 1 && (
+                      <>
+                        <br />
+                        <br />
+                      </>
+                    )}
+                  </span>
+                ))}
               </p>
             </div>
 
             <div className="flex flex-col mx-8 sm:mx-16 xl:mx-28">
               <h1 className="text-3xl text-theme-blue font-bold mb-5">
-                Project Responsibilities
+                Responsibilities
               </h1>
 
               <div className="flex flex-row ml-1">
@@ -118,7 +122,7 @@ const PortfolioDetail = ({ data }) => {
             </div>
 
             <p className="font-light italic text-gray-400 mt-16 mx-8 sm:mx-16 xl:mx-28">
-              * This project is just example. <br />
+              * This project is just an example. <br />
               Original project :{" "}
               <Button
                 type="link"
