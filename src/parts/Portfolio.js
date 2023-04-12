@@ -6,7 +6,7 @@ const Portfolio = ({ data }) => {
     <section className="container mx-auto flex flex-col items-center mt-20">
       <Fade bottom>
         <h1 className="text-5xl text-theme-blue text-center font-bold">
-          Our Selected Project
+          Our Selected Projects
         </h1>
 
         <p className="font-light text-lg text-gray-400 text-center mb-12 px-5">

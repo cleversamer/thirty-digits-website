@@ -3,7 +3,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import Button from "elements/Button";
 
 const AllPortfolio = ({ data }) => {
-  const mobile = data.filter((item) => item.type === "Mobile Apps");
+  const mobile = data.filter((item) => item.type === "Mobile App");
   const website = data.filter((item) => item.type === "Website");
 
   return (

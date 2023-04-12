@@ -15,12 +15,41 @@
   ],
   "portfolio": [
     {
+      "id": "monkey-road-mobile",
+      "title": "Monkey Road",
+      "imageUrl": "/assets/images/monkey-road-mobile.jpg",
+      "type": "Mobile App",
+      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "paragraphs": [
+        "Monkey Road is a comprehensive car rental and car shop application designed to make it easy for users to find and rent their desired cars or purchase one. The application offers a user-friendly interface that allows users to browse through a wide selection of vehicles and choose the one that suits their needs best.",
+        "Whether users are looking for a car for a quick weekend getaway, a business trip, or a long-term rental, Monkey Road offers a variety of options that can fit any budget or preference. Users can search for their desired vehicle based on various parameters such as location, car type, and rental period.",
+        "In addition to car rental, Monkey Road also provides a platform for users to buy new and used cars. Users can browse through a vast collection of cars, compare prices, and choose the one that best fits their budget and requirements.",
+        "The application offers various features that make the renting and buying process seamless and convenient. Users can view vehicle details, check availability, and make reservations directly through the application. They can also make secure payments, view rental agreements, and contact the car owners for any queries.",
+        "Monkey Road is committed to providing its users with a safe and hassle-free experience. The application ensures that all vehicles listed on the platform are well-maintained, and the owners are verified to ensure safety and reliability.",
+        "Overall, Monkey Road is a reliable and easy-to-use application that offers a one-stop solution for all car rental and car shopping needs."
+      ]
+    },
+    {
+      "id": "done-with-it",
+      "title": "DoneWithIt",
+      "imageUrl": "/assets/images/done-with-it.jpg",
+      "type": "Mobile App",
+      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "paragraphs": [
+        "DoneWithIt is an innovative mobile application that provides a simple and hassle-free solution for people looking to sell their unwanted items. It serves as a marketplace for individuals who want to get rid of things they no longer need, but that still have value and could be useful to others.",
+        "With DoneWithIt, users can easily upload images and descriptions of the items they wish to sell. The application then connects them with potential buyers who are interested in purchasing the items. The platform allows users to negotiate prices, communicate with buyers, and arrange for safe and secure transactions.",
+        "DoneWithIt offers a range of benefits for both buyers and sellers. For sellers, the application provides a convenient and efficient way to declutter their homes and make some extra money. They can sell items that are in good condition but are no longer needed, including clothing, electronics, furniture, and much more.",
+        "For buyers, DoneWithIt offers a vast selection of items at affordable prices. They can browse through various categories and find great deals on items that they may have been looking for. The platform also provides a way for buyers to communicate with sellers, ask questions, and negotiate prices, ensuring a seamless and satisfactory shopping experience.",
+        "DoneWithIt is also environmentally conscious, as it promotes recycling and the reuse of items. Rather than throwing away items that still have value, users can sell them on the platform, reducing waste and promoting sustainable consumption.",
+        "In summary, DoneWithIt is an innovative and user-friendly application that offers a convenient and efficient way for people to sell their unwanted items. With a broad selection of categories, safe and secure transactions, and an eco-friendly approach, it is the perfect solution for anyone looking to declutter their home and make some extra cash."
+      ]
+    },
+    {
       "id": "recruiting-app",
       "title": "Recruiting App",
       "imageUrl": "/assets/images/Recruiting.png",
-      "type": "Mobile Apps",
+      "type": "Mobile App",
       "responsibility": ["Mobile Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15164950-Recruiting-app",
       "paragraphs": [
         "A Recruiting App is an application that helps companies manage their recruitment processes more efficiently. It provides a streamlined platform for job posting, resume management, candidate screening, interview scheduling, and job offer management.",
         "Recruiting Apps typically allow companies to create job postings and post them to various job boards and social media platforms, as well as accept resumes and applications directly through the app. Resumes are usually stored in a searchable database, which allows recruiters to quickly find qualified candidates that match specific job requirements.",
@@ -33,9 +62,8 @@
       "id": "stream-plus",
       "title": "Stream+",
       "imageUrl": "/assets/images/Stream.png",
-      "type": "Mobile Apps",
+      "type": "Mobile App",
       "responsibility": ["Mobile Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15276430-Stream",
       "paragraphs": [
         "Stream+ is an application that allows users to stream movies and TV shows on their devices, typically on a subscription basis. These apps provide access to a large catalog of movies and TV shows that can be streamed on-demand, and often include features such as personalized recommendations, user profiles, and offline viewing.",
         "Movies Streaming Apps usually offer a variety of genres and categories to cater to different tastes and preferences. Users can browse through different titles and select the movie or TV show they want to watch, and then start streaming it on their device. The app typically provides different streaming quality options based on the user's internet speed, ensuring smooth playback.",
@@ -48,9 +76,8 @@
       "id": "freelance",
       "title": "Freelance",
       "imageUrl": "/assets/images/Freelance.png",
-      "type": "Mobile Apps",
+      "type": "Mobile App",
       "responsibility": ["Mobile Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept",
       "paragraphs": [
         "Freelance App is an application that connects freelancers with potential clients or employers for project-based work. The app provides a platform for freelancers to showcase their skills and experience, and for clients to post job opportunities and find suitable candidates.",
         "Freelancing Apps typically allow freelancers to create a profile that highlights their skills, work experience, and portfolio. This profile can be used to apply for job opportunities that match their skillset, or to be discovered by potential clients who are searching for freelancers with specific skills. Clients can also post job opportunities and invite freelancers to apply for the project.",
@@ -60,12 +87,40 @@
       ]
     },
     {
+      "id": "monkey-road-website",
+      "title": "Monkey Road",
+      "imageUrl": "/assets/images/monkey-road-website.jpg",
+      "type": "Website",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "paragraphs": [
+        "Monkey Road is a comprehensive car rental and car shop application designed to make it easy for users to find and rent their desired cars or purchase one. The application offers a user-friendly interface that allows users to browse through a wide selection of vehicles and choose the one that suits their needs best.",
+        "Whether users are looking for a car for a quick weekend getaway, a business trip, or a long-term rental, Monkey Road offers a variety of options that can fit any budget or preference. Users can search for their desired vehicle based on various parameters such as location, car type, and rental period.",
+        "In addition to car rental, Monkey Road also provides a platform for users to buy new and used cars. Users can browse through a vast collection of cars, compare prices, and choose the one that best fits their budget and requirements.",
+        "The application offers various features that make the renting and buying process seamless and convenient. Users can view vehicle details, check availability, and make reservations directly through the application. They can also make secure payments, view rental agreements, and contact the car owners for any queries.",
+        "Monkey Road is committed to providing its users with a safe and hassle-free experience. The application ensures that all vehicles listed on the platform are well-maintained, and the owners are verified to ensure safety and reliability.",
+        "Overall, Monkey Road is a reliable and easy-to-use application that offers a one-stop solution for all car rental and car shopping needs."
+      ]
+    },
+    {
+      "id": "top-line",
+      "title": "Top Line",
+      "imageUrl": "/assets/images/top-line.jpg",
+      "type": "Website",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "paragraphs": [
+        "TopLine is an online team-based company that offers a wide range of services to businesses and individuals alike. The company is dedicated to providing top-notch solutions that help their clients achieve their goals and increase their bottom line.",
+        "One of the key features of TopLine is their team-based approach. They bring together experts from various fields, including marketing, design, development, and project management, to collaborate on projects and provide comprehensive solutions to their clients. This allows them to tackle complex challenges and deliver high-quality results in a timely manner.",
+        "TopLine offers a variety of services, including website design and development, branding and marketing strategy, social media management, and e-commerce solutions. They work with businesses of all sizes, from startups to established enterprises, and tailor their services to meet the specific needs and goals of each client.",
+        "At TopLine, the client's success is always the top priority. They take a consultative approach to understand their clients' businesses and goals, and then develop customized solutions that align with those objectives. They also provide ongoing support and monitoring to ensure that their solutions continue to deliver value and drive results over time.",
+        "Overall, TopLine is a reliable and innovative partner for businesses and individuals looking to enhance their online presence and achieve their objectives. With their team-based approach and comprehensive range of services, they are well-equipped to tackle any challenge and deliver outstanding results."
+      ]
+    },
+    {
       "id": "aura",
       "title": "Aura",
       "imageUrl": "/assets/images/Aura.png",
       "type": "Website",
       "responsibility": ["Web Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page",
       "paragraphs": [
         "Aura is a Freelancing App that connects freelancers with potential clients or employers for project-based work. The app provides a platform for freelancers to showcase their skills and experience, and for clients to post job opportunities and find suitable candidates.",
         "Aura offers a user-friendly interface that makes it easy for freelancers to create a profile that highlights their skills, work experience, and portfolio. The platform allows freelancers to apply for job opportunities that match their skillset or be discovered by potential clients who are searching for freelancers with specific skills.",
@@ -80,7 +135,6 @@
       "imageUrl": "/assets/images/Surtido.png",
       "type": "Website",
       "responsibility": ["Web Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15173118-Surtido-Rico",
       "paragraphs": [
         "Surtido Rico is a clothing store App that provides users with a convenient and seamless shopping experience for high-quality fashion and accessories. The App is designed to cater to fashion-conscious shoppers who want to stay on top of the latest fashion trends.",
         "Surtido Rico offers an extensive collection of fashion items, ranging from trendy streetwear to elegant formal wear. The App provides a user-friendly interface that allows shoppers to browse products easily and make purchases with just a few clicks.",
@@ -95,7 +149,6 @@
       "imageUrl": "/assets/images/ManagementApp.png",
       "type": "Website",
       "responsibility": ["Web Development", "UI/UX Design"],
-      "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App",
       "paragraphs": [
         "Courses Management is an app designed to help students and educators manage their course-related tasks efficiently. The app provides a user-friendly interface that makes it easy for users to manage their courses, assignments, and grades in one place.",
         "The Courses Management app allows students to keep track of their courses, assignments, and deadlines. It also provides reminders and notifications to help students stay on top of their tasks and deadlines. The app provides a calendar view that shows all upcoming tasks and deadlines, making it easy for students to plan their time effectively.",

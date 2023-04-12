@@ -86,7 +86,7 @@ const PortfolioDetail = ({ data }) => {
           <Fade bottom delay={300 * 1}>
             <div className="flex flex-col mt-16 mb-12 mx-8 sm:mx-16 xl:mx-28">
               <h1 className="text-3xl text-theme-blue font-bold mb-3">
-                Details
+                Project Details
               </h1>
 
               <p className="font-light text-lg text-gray-400 text-justify">
@@ -120,20 +120,6 @@ const PortfolioDetail = ({ data }) => {
                 ))}
               </div>
             </div>
-
-            <p className="font-light italic text-gray-400 mt-16 mx-8 sm:mx-16 xl:mx-28">
-              * This project is just an example. <br />
-              Original project :{" "}
-              <Button
-                type="link"
-                href={item.credit}
-                target="_blank"
-                className="text-theme-purple"
-                isExternal
-              >
-                {item.credit}
-              </Button>
-            </p>
           </Fade>
         </div>
       ))}

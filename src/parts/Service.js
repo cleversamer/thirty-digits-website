@@ -6,7 +6,7 @@ const Service = ({ data }) => {
       <div className="container mx-auto pt-20 pb-28">
         <Fade bottom>
           <h1 className="text-5xl text-theme-blue text-center font-bold">
-            Our Service
+            Our Services
           </h1>
 
           <p className="font-light text-lg text-gray-400 text-center mb-12 px-5">
@@ -17,7 +17,7 @@ const Service = ({ data }) => {
         <div className="grid grid-rows-3 px-10 gap-8 sm:grid-cols-3 sm:grid-rows-1 sm:gap-6 xl:gap-16">
           {data.map((item, index) => (
             <Fade key={index} bottom delay={500 * index}>
-              <div>
+              <div className="cursor-pointer">
                 <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105">
                   <img
                     src={item.imageUrl}
