@@ -207,51 +207,27 @@
   "team": [
     {
       "name": "Samer Al-Sa'dawi",
-      "position": "CEO",
+      "position": "Founder & CEO",
       "imageUrl": "/assets/images/CEO.jpg",
       "socialUrl": "https://twitter.com/cleversamerr/"
     },
     {
-      "name": "Pauline Sydney",
-      "position": "HRD",
-      "imageUrl": "/assets/images/HRD.jpg",
-      "socialUrl": ""
-    },
-    {
       "name": "Granger Watterson",
-      "position": "Finance",
-      "imageUrl": "/assets/images/Finance.jpg",
-      "socialUrl": ""
-    },
-    {
-      "name": "Tom Jimmy",
-      "position": "Project Manager",
-      "imageUrl": "/assets/images/Project-manager.jpg",
-      "socialUrl": ""
-    },
-    {
-      "name": "Jim Hendrix",
       "position": "Front-end Developer",
-      "imageUrl": "/assets/images/Frontend1.jpg",
+      "imageUrl": "/assets/images/front-end-1.jpg",
       "socialUrl": ""
     },
     {
-      "name": "Calvin Max",
-      "position": "Front-end Developer",
-      "imageUrl": "/assets/images/Frontend2.jpg",
-      "socialUrl": ""
+      "name": "Samer Al-Sa'dawi",
+      "position": "Backend Developer",
+      "imageUrl": "/assets/images/CEO.jpg",
+      "socialUrl": "https://twitter.com/cleversamerr/"
     },
     {
-      "name": "Hawkins Jim",
-      "position": "Back-end Developer",
-      "imageUrl": "/assets/images/Backend1.jpg",
-      "socialUrl": ""
-    },
-    {
-      "name": "Don Bizaro",
-      "position": "Back-end Developer",
-      "imageUrl": "/assets/images/Backend2.jpg",
-      "socialUrl": ""
+      "name": "Fouad Habboub",
+      "position": "UI/UX Designer",
+      "imageUrl": "/assets/images/uiux.jpg",
+      "socialUrl": "https://twitter.com/fouad_haboub/"
     }
   ]
 }
