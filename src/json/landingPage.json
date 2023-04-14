@@ -209,25 +209,19 @@
       "name": "Samer Al-Sa'dawi",
       "position": "Founder & CEO",
       "imageUrl": "/assets/images/CEO.jpg",
-      "socialUrl": "https://twitter.com/cleversamerr/"
-    },
-    {
-      "name": "Granger Watterson",
-      "position": "Front-end Developer",
-      "imageUrl": "/assets/images/front-end-1.jpg",
-      "socialUrl": ""
+      "socialUrl": "https://wa.me/970599995488"
     },
     {
       "name": "Samer Al-Sa'dawi",
       "position": "Backend Developer",
       "imageUrl": "/assets/images/CEO.jpg",
-      "socialUrl": "https://twitter.com/cleversamerr/"
+      "socialUrl": "https://wa.me/970599995488"
     },
     {
       "name": "Fouad Habboub",
       "position": "UI/UX Designer",
       "imageUrl": "/assets/images/uiux.jpg",
-      "socialUrl": "https://twitter.com/fouad_haboub/"
+      "socialUrl": "https://wa.me/970592593532"
     }
   ]
 }
