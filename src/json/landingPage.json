@@ -30,6 +30,20 @@
       ]
     },
     {
+      "id": "teacher-tech",
+      "title": "Teacher Tech",
+      "imageUrl": "/assets/images/teacher-tech.jpg",
+      "type": "Mobile App",
+      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "paragraphs": [
+        "Teacher Tech is an educational chatting rooms app designed to connect students and teachers in a safe and secure virtual learning environment. This app provides a platform for teachers to create their own chat rooms, invite students, and engage in discussions on various topics. Students can easily access these chat rooms, ask questions, share their thoughts, and collaborate with their peers.",
+        "One of the key features of Teacher Tech is that it allows teachers to monitor and moderate the conversations in the chat rooms, ensuring that the discussions stay on topic and are appropriate for the classroom setting. Teachers can also share educational resources such as links, videos, and documents to further enhance the learning experience.",
+        "The app is user-friendly and has a simple interface, making it easy for both students and teachers to navigate. It is accessible from any device with an internet connection, making it convenient for students to participate in class discussions from anywhere.",
+        "Teacher Tech is a great tool for remote learning, as it provides a virtual classroom where students can interact with their teachers and classmates. This app also encourages participation and engagement, which can enhance the learning experience and help students retain information better.",
+        "Overall, Teacher Tech is an excellent educational chatting rooms app that facilitates communication and collaboration between teachers and students. It is a valuable tool for modern-day education and can help make virtual learning more engaging and interactive."
+      ]
+    },
+    {
       "id": "done-with-it",
       "title": "DoneWithIt",
       "imageUrl": "/assets/images/done-with-it.jpg",
