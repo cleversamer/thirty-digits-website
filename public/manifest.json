@@ -1,11 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Thirty Digits",
+  "name": "Thirty Digits",
   "icons": [
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "favicon.ico",
+      "type": "image/ico",
+      "sizes": "48x48"
     }
   ],
   "start_url": ".",
