@@ -6,6 +6,9 @@ import TeamPage from "pages/TeamPage";
 import DiscussProjectPage from "pages/DiscussProjectPage";
 import NotFoundPage from "pages/NotFoundPage";
 
+// eslint-disable-next-line
+import * as Firebase from "firebase";
+
 const App = () => {
   return (
     <Switch>
