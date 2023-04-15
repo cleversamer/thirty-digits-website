@@ -35,7 +35,10 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
             resetForm();
 
             setTimeout(() => {
-              window.open("https://wa.me/970599995488", "_blank");
+              const whatsAppURL =
+                "https://api.whatsapp.com/send/?phone=970599995488&text&type=phone_number&app_absent=0";
+
+              window.open(whatsAppURL, "_blank");
             }, 3000);
           },
           (error) => {
