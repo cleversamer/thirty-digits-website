@@ -33,6 +33,10 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
           () => {
             toast.success("Success! we'll get back to you soon. Thank you!");
             resetForm();
+
+            setTimeout(() => {
+              window.open("https://wa.me/970599995488", "_blank");
+            }, 3000);
           },
           (error) => {
             toast.error(error);

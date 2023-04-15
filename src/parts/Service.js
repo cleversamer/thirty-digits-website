@@ -17,19 +17,24 @@ const Service = ({ data }) => {
         <div className="grid grid-rows-3 px-10 gap-8 sm:grid-cols-3 sm:grid-rows-1 sm:gap-6 xl:gap-16">
           {data.map((item, index) => (
             <Fade key={index} bottom delay={500 * index}>
-              <div className="cursor-pointer">
-                <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105">
-                  <img
-                    src={item.imageUrl}
-                    alt="Service"
-                    className="w-full rounded-t-2xl"
-                  />
-
-                  <h2 className="text-theme-blue text-center text-xl py-7 rounded-b-2xl">
-                    {item.title}
-                  </h2>
+              <a
+                href="https://wa.me/970599995488"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <div className="cursor-pointer">
+                  <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105">
+                    <img
+                      src={item.imageUrl}
+                      alt={`${item.title} Service`}
+                      className="w-full rounded-t-2xl"
+                    />
+                    <h2 className="text-theme-blue text-center text-xl py-7 rounded-b-2xl">
+                      {item.title}
+                    </h2>
+                  </div>
                 </div>
-              </div>
+              </a>
             </Fade>
           ))}
         </div>

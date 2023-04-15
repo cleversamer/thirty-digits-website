@@ -17,7 +17,7 @@ const HeroTeam = () => {
         </div>
 
         <div className="w-full sm:w-1/2 sm:pr-12">
-          <img src={Team} alt="Hero" />
+          <img src={Team} alt="Thirty Digits Software Development Company" />
         </div>
       </Fade>
     </section>

@@ -3,8 +3,9 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import Button from "elements/Button";
 
 const AllPortfolio = ({ data }) => {
-  const mobile = data.filter((item) => item.type === "Mobile App");
-  const website = data.filter((item) => item.type === "Website");
+  const mobileApps = data.filter((app) => app.type === "Mobile App");
+  const websites = data.filter((app) => app.type === "Website");
+  const designs = [...data];
 
   return (
     <Fade bottom>
@@ -34,14 +35,14 @@ const AllPortfolio = ({ data }) => {
 
           <TabPanel>
             <div className="grid grid-cols-2 sm:grid-cols-3 sm:gap-2 xl:gap-8 justify-items-center">
-              {mobile.map((item, index) => (
+              {mobileApps.map((item, index) => (
                 <Fade key={index} bottom delay={500 * index}>
                   <Button type="link" href={`/project/${item.id}`}>
                     <div className="group rounded-2xl shadow-xl w-auto w-11/12 m-3 transform transition duration-500 hover:scale-110 portofolio-card">
                       <div className="relative">
                         <img
                           src={item.imageUrl}
-                          alt="Portfolio"
+                          alt={`${item.title} App`}
                           className="rounded-t-2xl z-0"
                         />
 
@@ -89,14 +90,14 @@ const AllPortfolio = ({ data }) => {
 
           <TabPanel>
             <div className="grid grid-cols-2 sm:grid-cols-3 sm:gap-2 xl:gap-8 justify-items-center">
-              {website.map((item, index) => (
+              {websites.map((item, index) => (
                 <Fade key={index} bottom delay={500 * index}>
                   <Button type="link" href={`/project/${item.id}`}>
                     <div className="group rounded-2xl shadow-xl w-auto w-11/12 m-3 transform transition duration-500 hover:scale-110 portofolio-card">
                       <div className="relative">
                         <img
                           src={item.imageUrl}
-                          alt="Portfolio"
+                          alt={`${item.title} App`}
                           className="rounded-t-2xl z-0"
                         />
 
@@ -144,14 +145,14 @@ const AllPortfolio = ({ data }) => {
 
           <TabPanel>
             <div className="grid grid-cols-2 sm:grid-cols-3 sm:gap-2 xl:gap-8 justify-items-center">
-              {data.map((item, index) => (
+              {designs.map((item, index) => (
                 <Fade key={index} bottom delay={500 * index}>
                   <Button type="link" href={`/project/${item.id}`}>
                     <div className="group rounded-2xl shadow-xl w-auto w-11/12 m-3 transform transition duration-500 hover:scale-110 portofolio-card">
                       <div className="relative">
                         <img
                           src={item.imageUrl}
-                          alt="Portfolio"
+                          alt={`${item.title} App`}
                           className="rounded-t-2xl z-0"
                         />
 

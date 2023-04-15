@@ -1,12 +1,20 @@
 {
   "service": [
     {
+      "title": "Software Consulting",
+      "imageUrl": "/assets/images/consulting.png"
+    },
+    {
       "title": "Web Development",
       "imageUrl": "/assets/images/Web.png"
     },
     {
       "title": "Mobile Development",
       "imageUrl": "/assets/images/Mobile.png"
+    },
+    {
+      "title": "Desktop Development",
+      "imageUrl": "/assets/images/desktop.png"
     },
     {
       "title": "UI/UX Design",
@@ -19,7 +27,11 @@
       "title": "Monkey Road",
       "imageUrl": "/assets/images/monkey-road-mobile.jpg",
       "type": "Mobile App",
-      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "responsibility": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Monkey Road is a comprehensive car rental and car shop application designed to make it easy for users to find and rent their desired cars or purchase one. The application offers a user-friendly interface that allows users to browse through a wide selection of vehicles and choose the one that suits their needs best.",
         "Whether users are looking for a car for a quick weekend getaway, a business trip, or a long-term rental, Monkey Road offers a variety of options that can fit any budget or preference. Users can search for their desired vehicle based on various parameters such as location, car type, and rental period.",
@@ -34,7 +46,11 @@
       "title": "Teacher Tech",
       "imageUrl": "/assets/images/teacher-tech.jpg",
       "type": "Mobile App",
-      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "responsibility": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Teacher Tech is an educational chatting rooms app designed to connect students and teachers in a safe and secure virtual learning environment. This app provides a platform for teachers to create their own chat rooms, invite students, and engage in discussions on various topics. Students can easily access these chat rooms, ask questions, share their thoughts, and collaborate with their peers.",
         "One of the key features of Teacher Tech is that it allows teachers to monitor and moderate the conversations in the chat rooms, ensuring that the discussions stay on topic and are appropriate for the classroom setting. Teachers can also share educational resources such as links, videos, and documents to further enhance the learning experience.",
@@ -48,7 +64,11 @@
       "title": "DoneWithIt",
       "imageUrl": "/assets/images/done-with-it.jpg",
       "type": "Mobile App",
-      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "responsibility": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "DoneWithIt is an innovative mobile application that provides a simple and hassle-free solution for people looking to sell their unwanted items. It serves as a marketplace for individuals who want to get rid of things they no longer need, but that still have value and could be useful to others.",
         "With DoneWithIt, users can easily upload images and descriptions of the items they wish to sell. The application then connects them with potential buyers who are interested in purchasing the items. The platform allows users to negotiate prices, communicate with buyers, and arrange for safe and secure transactions.",
@@ -63,7 +83,11 @@
       "title": "Recruiting App",
       "imageUrl": "/assets/images/Recruiting.png",
       "type": "Mobile App",
-      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "responsibility": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "A Recruiting App is an application that helps companies manage their recruitment processes more efficiently. It provides a streamlined platform for job posting, resume management, candidate screening, interview scheduling, and job offer management.",
         "Recruiting Apps typically allow companies to create job postings and post them to various job boards and social media platforms, as well as accept resumes and applications directly through the app. Resumes are usually stored in a searchable database, which allows recruiters to quickly find qualified candidates that match specific job requirements.",
@@ -77,7 +101,11 @@
       "title": "Stream+",
       "imageUrl": "/assets/images/Stream.png",
       "type": "Mobile App",
-      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "responsibility": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Stream+ is an application that allows users to stream movies and TV shows on their devices, typically on a subscription basis. These apps provide access to a large catalog of movies and TV shows that can be streamed on-demand, and often include features such as personalized recommendations, user profiles, and offline viewing.",
         "Movies Streaming Apps usually offer a variety of genres and categories to cater to different tastes and preferences. Users can browse through different titles and select the movie or TV show they want to watch, and then start streaming it on their device. The app typically provides different streaming quality options based on the user's internet speed, ensuring smooth playback.",
@@ -91,7 +119,11 @@
       "title": "Freelance",
       "imageUrl": "/assets/images/Freelance.png",
       "type": "Mobile App",
-      "responsibility": ["Mobile Development", "UI/UX Design"],
+      "responsibility": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Freelance App is an application that connects freelancers with potential clients or employers for project-based work. The app provides a platform for freelancers to showcase their skills and experience, and for clients to post job opportunities and find suitable candidates.",
         "Freelancing Apps typically allow freelancers to create a profile that highlights their skills, work experience, and portfolio. This profile can be used to apply for job opportunities that match their skillset, or to be discovered by potential clients who are searching for freelancers with specific skills. Clients can also post job opportunities and invite freelancers to apply for the project.",
@@ -105,7 +137,11 @@
       "title": "Monkey Road",
       "imageUrl": "/assets/images/monkey-road-website.jpg",
       "type": "Website",
-      "responsibility": ["Web Development", "UI/UX Design"],
+      "responsibility": [
+        "Web Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Monkey Road is a comprehensive car rental and car shop application designed to make it easy for users to find and rent their desired cars or purchase one. The application offers a user-friendly interface that allows users to browse through a wide selection of vehicles and choose the one that suits their needs best.",
         "Whether users are looking for a car for a quick weekend getaway, a business trip, or a long-term rental, Monkey Road offers a variety of options that can fit any budget or preference. Users can search for their desired vehicle based on various parameters such as location, car type, and rental period.",
@@ -120,7 +156,11 @@
       "title": "Top Line",
       "imageUrl": "/assets/images/top-line.jpg",
       "type": "Website",
-      "responsibility": ["Web Development", "UI/UX Design"],
+      "responsibility": [
+        "Web Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "TopLine is an online team-based company that offers a wide range of services to businesses and individuals alike. The company is dedicated to providing top-notch solutions that help their clients achieve their goals and increase their bottom line.",
         "One of the key features of TopLine is their team-based approach. They bring together experts from various fields, including marketing, design, development, and project management, to collaborate on projects and provide comprehensive solutions to their clients. This allows them to tackle complex challenges and deliver high-quality results in a timely manner.",
@@ -134,7 +174,11 @@
       "title": "Aura",
       "imageUrl": "/assets/images/Aura.png",
       "type": "Website",
-      "responsibility": ["Web Development", "UI/UX Design"],
+      "responsibility": [
+        "Web Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Aura is a Freelancing App that connects freelancers with potential clients or employers for project-based work. The app provides a platform for freelancers to showcase their skills and experience, and for clients to post job opportunities and find suitable candidates.",
         "Aura offers a user-friendly interface that makes it easy for freelancers to create a profile that highlights their skills, work experience, and portfolio. The platform allows freelancers to apply for job opportunities that match their skillset or be discovered by potential clients who are searching for freelancers with specific skills.",
@@ -148,7 +192,11 @@
       "title": "Surtido Rico",
       "imageUrl": "/assets/images/Surtido.png",
       "type": "Website",
-      "responsibility": ["Web Development", "UI/UX Design"],
+      "responsibility": [
+        "Web Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Surtido Rico is a clothing store App that provides users with a convenient and seamless shopping experience for high-quality fashion and accessories. The App is designed to cater to fashion-conscious shoppers who want to stay on top of the latest fashion trends.",
         "Surtido Rico offers an extensive collection of fashion items, ranging from trendy streetwear to elegant formal wear. The App provides a user-friendly interface that allows shoppers to browse products easily and make purchases with just a few clicks.",
@@ -162,7 +210,11 @@
       "title": "Courses Management",
       "imageUrl": "/assets/images/ManagementApp.png",
       "type": "Website",
-      "responsibility": ["Web Development", "UI/UX Design"],
+      "responsibility": [
+        "Web Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
       "paragraphs": [
         "Courses Management is an app designed to help students and educators manage their course-related tasks efficiently. The app provides a user-friendly interface that makes it easy for users to manage their courses, assignments, and grades in one place.",
         "The Courses Management app allows students to keep track of their courses, assignments, and deadlines. It also provides reminders and notifications to help students stay on top of their tasks and deadlines. The app provides a calendar view that shows all upcoming tasks and deadlines, making it easy for students to plan their time effectively.",
