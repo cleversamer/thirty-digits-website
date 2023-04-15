@@ -1,10 +1,6 @@
 {
   "service": [
     {
-      "title": "Software Consulting",
-      "imageUrl": "/assets/images/consulting.png"
-    },
-    {
       "title": "Web Development",
       "imageUrl": "/assets/images/Web.png"
     },
@@ -19,9 +15,47 @@
     {
       "title": "UI/UX Design",
       "imageUrl": "/assets/images/Design.png"
+    },
+    {
+      "title": "Software Consulting",
+      "imageUrl": "/assets/images/consulting.png"
+    },
+    {
+      "title": "Maintenance & Support",
+      "imageUrl": "/assets/images/maintenance-support.png"
+    },
+    {
+      "title": "Cloud Computing",
+      "imageUrl": "/assets/images/cloud-computing.png"
+    },
+    {
+      "title": "Testing & Quality Assurance",
+      "imageUrl": "/assets/images/testing.png"
+    },
+    {
+      "title": "Training & Education",
+      "imageUrl": "/assets/images/training-education.png"
     }
   ],
   "portfolio": [
+    {
+      "id": "watch-store",
+      "title": "Watch Store",
+      "imageUrl": "/assets/images/watch-store.jpg",
+      "type": "Mobile App",
+      "responsibility": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
+      "paragraphs": [
+        "Welcome to our Watch Store mobile app, your one-stop destination for the latest and greatest in watch fashion and technology.",
+        "With our app, you can browse and shop for a wide range of watches, including luxury and designer brands, sports watches, smartwatches, and more. Our collection features the latest trends and timeless classics, so you can find the perfect watch to suit your style and needs.",
+        "Our app is designed with ease-of-use in mind, making it simple and convenient for you to navigate through our product selection. You can filter by brand, price range, features, and more to quickly find the watch that fits your preferences.",
+        "In addition to shopping, our app also provides access to useful information about watches, including care and maintenance tips, sizing guides, and frequently asked questions.",
+        "So whether you're a watch enthusiast, a fashion-conscious individual, or simply in need of a reliable timepiece, our Watch Store app is the perfect solution. Download now and start exploring our collection today!"
+      ]
+    },
     {
       "id": "monkey-road-mobile",
       "title": "Monkey Road",
@@ -130,6 +164,41 @@
         "The app often includes tools to help freelancers manage their workload, such as a calendar to schedule their time and deadlines, and the ability to track their time and invoice clients for their work. Some apps also offer project management tools that allow freelancers to collaborate with clients and other freelancers on larger projects.",
         "Freelancing Apps may also include features that help clients manage their projects, such as the ability to communicate with freelancers, track project progress, and release payments for completed work. Some apps also offer dispute resolution services in case of disagreements between freelancers and clients.",
         "Overall, a Freelancing App provides a platform for freelancers to find work and for clients to find skilled professionals for project-based work. It offers a convenient and efficient way for freelancers to manage their workload and for clients to find suitable candidates for their projects, creating a win-win situation for both parties involved."
+      ]
+    },
+    {
+      "id": "team-landing-page",
+      "title": "Team Landing Page",
+      "imageUrl": "/assets/images/team-landing-page.jpg",
+      "type": "Website",
+      "responsibility": [
+        "Web Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
+      "paragraphs": [
+        "Welcome to our Tech Team landing page, where innovation and creativity meet to create cutting-edge technology solutions for businesses of all sizes.",
+        "Our team of experienced and skilled professionals is dedicated to providing customized technology solutions to meet your unique business needs. From software development to cloud computing, we specialize in a range of areas to help you streamline your operations and stay ahead of the competition.",
+        "Our landing page is designed to showcase our expertise and capabilities, featuring information on our services, team members, and success stories. We pride ourselves on our collaborative approach, working closely with you to understand your business and provide tailored solutions that meet your objectives.",
+        "Whether you're a small business or a large enterprise, our Tech Team landing page offers the perfect introduction to our services and capabilities. We invite you to explore our website and learn more about how we can help you take your business to the next level with our innovative technology solutions."
+      ]
+    },
+    {
+      "id": "movies-streaming",
+      "title": "Movies Streaming",
+      "imageUrl": "/assets/images/movies-streaming.jpg",
+      "type": "Website",
+      "responsibility": [
+        "Web Development",
+        "UI/UX Design",
+        "Software Consulting"
+      ],
+      "paragraphs": [
+        "Welcome to our Movies Streaming web application, your go-to destination for the latest and greatest movies and TV shows.",
+        "With our web app, you can easily browse and stream thousands of movies and TV shows from a variety of genres, including action, romance, comedy, drama, and more. Our collection includes both classic and contemporary titles, so you can find something to suit your every mood.",
+        "Our web app is designed to provide you with an immersive and engaging experience, featuring a user-friendly interface that makes it easy to search, filter, and watch your favorite content. You can also create your own personal watchlist, so you can keep track of the movies and TV shows you want to watch.",
+        "We also provide access to a range of useful information, including movie synopses, cast and crew information, trailers, and more.",
+        "So whether you're a movie buff, a TV show junkie, or simply in the mood for some quality entertainment, our Movies Streaming web application is the perfect solution. Sign up now and start exploring our collection today!"
       ]
     },
     {
