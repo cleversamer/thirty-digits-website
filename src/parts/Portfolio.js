@@ -22,9 +22,10 @@ const Portfolio = ({ data }) => {
                 <div className="relative">
                   <img
                     src={item.imageUrl}
-                    alt="Portfolio"
+                    alt={`${item.name} Project`}
                     className="rounded-t-2xl z-0"
                   />
+
                   <div className="absolute flex w-full h-full top-0 opacity-0 bg-black justify-center rounded-t-2xl rounded-b img-hover">
                     <button className="focus:outline-none">
                       <svg
@@ -50,10 +51,12 @@ const Portfolio = ({ data }) => {
                     </button>
                   </div>
                 </div>
+
                 <div className="py-4">
                   <h2 className="text-theme-blue text-center text-xl">
                     {item.title}
                   </h2>
+
                   <p className="font-light text-gray-400 text-center">
                     {item.type}
                   </p>

@@ -77,7 +77,7 @@ const PortfolioDetail = ({ data }) => {
             <div className="flex justify-center xl:mb-6">
               <img
                 src={`../${item.imageUrl}`}
-                alt="Project"
+                alt={`${item.title} Project`}
                 className="flex w-4/5 sm:w-4/6 rounded-lg"
               />
             </div>
