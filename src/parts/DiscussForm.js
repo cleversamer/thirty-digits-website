@@ -54,7 +54,7 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
     <section className="flex flex-col container mx-auto mt-10 justify-center">
       <Fade bottom>
         <h1 className="text-5xl text-theme-blue text-center font-bold">
-          Lets Discuss
+          Let's Discuss
         </h1>
 
         <p className="font-light text-lg text-gray-400 text-center mb-12 px-5">
