@@ -1,11 +1,17 @@
+import { useEffect, useRef } from "react";
 import Fade from "react-reveal/Fade";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import Button from "elements/Button";
 
 const AllPortfolio = ({ data }) => {
+  const mobileTapRef = useRef(null);
   const mobileApps = data.filter((app) => app.type === "Mobile App");
   const websites = data.filter((app) => app.type === "Website");
   const designs = [...data];
+
+  useEffect(() => {
+    mobileTapRef.current.focus();
+  }, [mobileTapRef]);
 
   return (
     <Fade bottom>
@@ -14,7 +20,10 @@ const AllPortfolio = ({ data }) => {
           <TabList>
             <div className="flex flex-row mb-5">
               <Tab>
-                <button className="font-normal px-5 py-2 mr-3 text-theme-purple text-lg border border-theme-purple rounded-full transition duration-300 hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white">
+                <button
+                  ref={mobileTapRef}
+                  className="font-normal px-5 py-2 mr-3 text-theme-purple text-lg border border-theme-purple rounded-full transition duration-300 hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white"
+                >
                   Mobile
                 </button>
               </Tab>

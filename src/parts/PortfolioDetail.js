@@ -78,7 +78,7 @@ const PortfolioDetail = ({ data }) => {
               <img
                 src={`../${item.imageUrl}`}
                 alt="Project"
-                className="flex w-4/5 sm:w-4/6"
+                className="flex w-4/5 sm:w-4/6 rounded-lg"
               />
             </div>
           </Fade>
@@ -109,11 +109,11 @@ const PortfolioDetail = ({ data }) => {
                 Responsibilities
               </h1>
 
-              <div className="flex flex-row ml-1">
+              <div className="flex flex-row flex-wrap ml-1">
                 {item.responsibility.map((responsibility, index) => (
                   <div
                     key={index}
-                    className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg"
+                    className="min-w-max my-3 mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg"
                   >
                     {responsibility}
                   </div>
