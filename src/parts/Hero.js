@@ -43,10 +43,12 @@ const Hero = () => {
 
       <Fade bottom>
         <div className="flex pt-5 w-full justify-center items-center order-first md:w-full lg:order-last lg:w-1/2">
-          <img
-            src={BuildWebsite}
-            alt="Thirty Digits Software Development Company"
-          />
+          <a href="https://wa.me/970599995488" target="_blank" rel="noreferrer">
+            <img
+              src={BuildWebsite}
+              alt="Thirty Digits Software Development Company"
+            />
+          </a>
         </div>
       </Fade>
     </section>

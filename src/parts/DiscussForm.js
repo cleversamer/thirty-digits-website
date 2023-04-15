@@ -67,7 +67,6 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
               type="text"
               value={data.name}
               placeholder="Your name"
-              className=""
               onChange={onChange}
             />
 
@@ -77,7 +76,6 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
               type="text"
               value={data.company}
               placeholder="Your company"
-              className=""
               onChange={onChange}
             />
           </div>
@@ -89,7 +87,6 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
               type="email"
               value={data.email}
               placeholder="Your email address"
-              className=""
               onChange={onChange}
             />
 
@@ -99,7 +96,6 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
               type="tel"
               value={data.phone}
               placeholder="Your contact number"
-              className=""
               onChange={onChange}
             />
           </div>
@@ -111,7 +107,6 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
               type="textarea"
               value={data.projectIdea}
               placeholder="Explain about your project idea"
-              className=""
               onChange={onChange}
             />
           </div>
