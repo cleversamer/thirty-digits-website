@@ -39,7 +39,7 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
                 "https://api.whatsapp.com/send/?phone=970599995488&text&type=phone_number&app_absent=0";
 
               window.open(whatsAppURL, "_blank");
-            }, 3000);
+            }, 2000);
           },
           (error) => {
             toast.error(error);
