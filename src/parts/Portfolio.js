@@ -10,7 +10,8 @@ const Portfolio = ({ data }) => {
         </h1>
 
         <p className="font-light text-lg text-gray-400 text-center mb-12 px-5">
-          We are ready to scale up your business with our great work result.
+          We are ready to scale up your business with our excellent work
+          results.
         </p>
       </Fade>
 
@@ -71,11 +72,14 @@ const Portfolio = ({ data }) => {
         <Button
           href="/projects"
           type="link"
-          className="flex flex-grow-0 w-36 h-12 sm:w-40 sm:h-14 lg:w-44 lg:h-16 xl:w-36 xl:h-12 text-theme-purple px-5 border border-theme-purple items-center mt-14 rounded-full justify-center transition duration-300 hover:bg-theme-purple hover:text-white"
+          className="min-w-max flex flex-grow-0 w-36 h-12 sm:w-40 sm:h-14 lg:w-44 lg:h-16 xl:w-36 xl:h-12 text-theme-purple px-5 border border-theme-purple items-center mt-14 rounded-full justify-center transition duration-300 hover:bg-theme-purple hover:text-white"
         >
-          <p className="font-normal py-3 lg:text-lg xl:text-base">See More</p>
+          <p className="font-normal py-3 lg:text-lg xl:text-base mr-2">
+            See More
+          </p>
+
           <svg
-            className="w-4 h-4"
+            className="w-4 h-4 animate-bounce-x"
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
@@ -88,8 +92,9 @@ const Portfolio = ({ data }) => {
               d="M9 5l7 7-7 7"
             />
           </svg>
+
           <svg
-            className="w-4 h-4 -ml-2"
+            className="w-4 h-4 animate-bounce-x"
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"

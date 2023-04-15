@@ -11,7 +11,7 @@ const HeroPortfolio = () => {
           </h1>
 
           <p className="font-light text-xl text-gray-400 leading-relaxed">
-            As a Software House that designs and develops website, mobile apps,
+            As a Software House that designs and develops websites, mobile apps,
             and UI/UX design, we have been trusted by our clients from all
             around the world.
           </p>
