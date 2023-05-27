@@ -1,5 +1,5 @@
 import Fade from "react-reveal/Fade";
-import Team from "assets/images/team.png";
+import Team from "assets/images/team.webp";
 
 const HeroTeam = () => {
   return (

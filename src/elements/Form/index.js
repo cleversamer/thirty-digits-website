@@ -1,7 +1,15 @@
 import { useState } from "react";
-import PropTypes from "prop-types";
+import { string, oneOfType, number, func } from "prop-types";
 
-const Form = ({ name, value, type, placeholder, className, errorResponse, onChange }) => {
+const Form = ({
+  name,
+  value,
+  type,
+  placeholder,
+  className,
+  errorResponse,
+  onChange,
+}) => {
   const [hasError, setHasError] = useState(null);
 
   let pattern = "";
@@ -101,13 +109,13 @@ Form.defaultProps = {
 };
 
 Form.propTypes = {
-  name: PropTypes.string.isRequired,
-  value: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
-  onChange: PropTypes.func.isRequired,
-  type: PropTypes.string,
-  placeholder: PropTypes.string,
-  className: PropTypes.string,
-  errorResponse: PropTypes.string,
+  name: string.isRequired,
+  value: oneOfType([number, string]).isRequired,
+  onChange: func.isRequired,
+  type: string,
+  placeholder: string,
+  className: string,
+  errorResponse: string,
 };
 
 export default Form;

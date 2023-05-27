@@ -1,5 +1,5 @@
 import Fade from "react-reveal/Fade";
-import NotFound from "assets/images/NotFound.png";
+import NotFound from "assets/images/NotFound.webp";
 import Button from "elements/Button";
 
 const PortfolioDetail = ({ data }) => {

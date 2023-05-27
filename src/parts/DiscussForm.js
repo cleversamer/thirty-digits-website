@@ -1,5 +1,5 @@
 import Fade from "react-reveal/Fade";
-import * as emailjs from "emailjs-com";
+import { send as sendEmail } from "emailjs-com";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Form from "elements/Form";
@@ -11,7 +11,7 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
 
     const templateParams = {
       from_name: `${name} - ${company} ( ${phone} - ${email} )`,
-      to_name: "Racxstudio",
+      to_name: "Thirty Digits",
       message: projectIdea,
     };
 
@@ -22,29 +22,27 @@ const DiscussForm = ({ data, resetForm, onChange }) => {
       phone !== "" &&
       projectIdea !== ""
     ) {
-      emailjs
-        .send(
-          "service_h4gtndg",
-          "template_a9tvs7a",
-          templateParams,
-          "user_csqIxzN5mKsl1yw4ffJzV"
-        )
-        .then(
-          () => {
-            toast.success("Success! we'll get back to you soon. Thank you!");
-            resetForm();
+      sendEmail(
+        "service_h4gtndg",
+        "template_a9tvs7a",
+        templateParams,
+        "user_csqIxzN5mKsl1yw4ffJzV"
+      ).then(
+        () => {
+          toast.success("Success! we'll get back to you soon. Thank you!");
+          resetForm();
 
-            setTimeout(() => {
-              const whatsAppURL =
-                "https://api.whatsapp.com/send/?phone=970599995488&text&type=phone_number&app_absent=0";
+          setTimeout(() => {
+            const whatsAppURL =
+              "https://api.whatsapp.com/send/?phone=970599995488&text&type=phone_number&app_absent=0";
 
-              window.open(whatsAppURL, "_blank");
-            }, 2000);
-          },
-          (error) => {
-            toast.error(error);
-          }
-        );
+            window.open(whatsAppURL, "_blank", "popup=true,noreferrer");
+          }, 2000);
+        },
+        (error) => {
+          toast.error(error);
+        }
+      );
     } else {
       toast.error("Please fill out the blank form.");
     }

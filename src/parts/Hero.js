@@ -1,6 +1,6 @@
 import Fade from "react-reveal/Fade";
 import Button from "elements/Button";
-import BuildWebsite from "assets/images/Startup.png";
+import BuildWebsite from "assets/images/Startup.webp";
 
 const Hero = () => {
   return (

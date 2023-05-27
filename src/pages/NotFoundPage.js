@@ -5,7 +5,7 @@ const NotFoundPage = () => {
     <div className="flex flex-col w-full h-screen justify-center bg-gray-800">
       <div className="flex w-full justify-center">
         <img
-          src="/assets/images/NotFound.png"
+          src="/assets/images/NotFound.webp"
           alt="Not Found"
           className="sm:w-3/4 xl:w-5/12"
         />

@@ -1,5 +1,5 @@
 import Fade from "react-reveal/Fade";
-import heroPortfolio from "assets/images/portfolioHero.png";
+import heroPortfolio from "assets/images/portfolioHero.webp";
 
 const HeroPortfolio = () => {
   return (

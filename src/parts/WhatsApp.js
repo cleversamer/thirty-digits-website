@@ -28,7 +28,7 @@ const WhatsApp = () => {
         isVisible ? "opacity-100" : "opacity-0"
       }`}
     >
-      <img src="/assets/images/whatsapp.png" alt="whatsapp logo" />
+      <img src="/assets/images/whatsapp.webp" alt="whatsapp logo" />
     </a>
   );
 };

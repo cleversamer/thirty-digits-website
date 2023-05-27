@@ -2,46 +2,46 @@
   "service": [
     {
       "title": "Web Development",
-      "imageUrl": "/assets/images/Web.png"
+      "imageUrl": "/assets/images/Web.webp"
     },
     {
       "title": "Mobile Development",
-      "imageUrl": "/assets/images/Mobile.png"
+      "imageUrl": "/assets/images/Mobile.webp"
     },
     {
       "title": "Desktop Development",
-      "imageUrl": "/assets/images/desktop.png"
+      "imageUrl": "/assets/images/desktop.webp"
     },
     {
       "title": "UI/UX Design",
-      "imageUrl": "/assets/images/Design.png"
+      "imageUrl": "/assets/images/Design.webp"
     },
     {
       "title": "Software Consulting",
-      "imageUrl": "/assets/images/consulting.png"
+      "imageUrl": "/assets/images/consulting.webp"
     },
     {
       "title": "Maintenance & Support",
-      "imageUrl": "/assets/images/maintenance-support.png"
+      "imageUrl": "/assets/images/maintenance-support.webp"
     },
     {
       "title": "Cloud Computing",
-      "imageUrl": "/assets/images/cloud-computing.png"
+      "imageUrl": "/assets/images/cloud-computing.webp"
     },
     {
       "title": "Testing & Quality Assurance",
-      "imageUrl": "/assets/images/testing.png"
+      "imageUrl": "/assets/images/testing.webp"
     },
     {
       "title": "Training & Education",
-      "imageUrl": "/assets/images/training-education.png"
+      "imageUrl": "/assets/images/training-education.webp"
     }
   ],
   "portfolio": [
     {
       "id": "watch-store",
       "title": "Watch Store",
-      "imageUrl": "/assets/images/watch-store.jpg",
+      "imageUrl": "/assets/images/watch-store.webp",
       "type": "Mobile App",
       "responsibility": [
         "Mobile Development",
@@ -61,7 +61,7 @@
     {
       "id": "monkey-road-mobile",
       "title": "Monkey Road",
-      "imageUrl": "/assets/images/monkey-road-mobile.jpg",
+      "imageUrl": "/assets/images/monkey-road-mobile.webp",
       "type": "Mobile App",
       "responsibility": [
         "Mobile Development",
@@ -82,7 +82,7 @@
     {
       "id": "teacher-tech",
       "title": "Teacher Tech",
-      "imageUrl": "/assets/images/teacher-tech.jpg",
+      "imageUrl": "/assets/images/teacher-tech.webp",
       "type": "Mobile App",
       "responsibility": [
         "Mobile Development",
@@ -102,7 +102,7 @@
     {
       "id": "done-with-it",
       "title": "DoneWithIt",
-      "imageUrl": "/assets/images/done-with-it.jpg",
+      "imageUrl": "/assets/images/done-with-it.webp",
       "type": "Mobile App",
       "responsibility": [
         "Mobile Development",
@@ -123,7 +123,7 @@
     {
       "id": "recruiting-app",
       "title": "Recruiting App",
-      "imageUrl": "/assets/images/Recruiting.png",
+      "imageUrl": "/assets/images/Recruiting.webp",
       "type": "Mobile App",
       "responsibility": [
         "Mobile Development",
@@ -143,7 +143,7 @@
     {
       "id": "stream-plus",
       "title": "Stream+",
-      "imageUrl": "/assets/images/Stream.png",
+      "imageUrl": "/assets/images/Stream.webp",
       "type": "Mobile App",
       "responsibility": [
         "Mobile Development",
@@ -163,7 +163,7 @@
     {
       "id": "freelance",
       "title": "Freelance",
-      "imageUrl": "/assets/images/Freelance.png",
+      "imageUrl": "/assets/images/Freelance.webp",
       "type": "Mobile App",
       "responsibility": [
         "Mobile Development",
@@ -183,7 +183,7 @@
     {
       "id": "team-landing-page",
       "title": "Team Landing Page",
-      "imageUrl": "/assets/images/team-landing-page.jpg",
+      "imageUrl": "/assets/images/team-landing-page.webp",
       "type": "Website",
       "responsibility": [
         "Web Development",
@@ -202,7 +202,7 @@
     {
       "id": "movies-streaming",
       "title": "Movies Streaming",
-      "imageUrl": "/assets/images/movies-streaming.jpg",
+      "imageUrl": "/assets/images/movies-streaming.webp",
       "type": "Website",
       "responsibility": [
         "Web Development",
@@ -222,7 +222,7 @@
     {
       "id": "monkey-road-website",
       "title": "Monkey Road",
-      "imageUrl": "/assets/images/monkey-road-website.jpg",
+      "imageUrl": "/assets/images/monkey-road-website.webp",
       "type": "Website",
       "responsibility": [
         "Web Development",
@@ -243,7 +243,7 @@
     {
       "id": "top-line",
       "title": "Top Line",
-      "imageUrl": "/assets/images/top-line.jpg",
+      "imageUrl": "/assets/images/top-line.webp",
       "type": "Website",
       "responsibility": [
         "Web Development",
@@ -263,7 +263,7 @@
     {
       "id": "aura",
       "title": "Aura",
-      "imageUrl": "/assets/images/Aura.png",
+      "imageUrl": "/assets/images/Aura.webp",
       "type": "Website",
       "responsibility": [
         "Web Development",
@@ -283,7 +283,7 @@
     {
       "id": "surtido-rico",
       "title": "Surtido Rico",
-      "imageUrl": "/assets/images/Surtido.png",
+      "imageUrl": "/assets/images/Surtido.webp",
       "type": "Website",
       "responsibility": [
         "Web Development",
@@ -303,7 +303,7 @@
     {
       "id": "courses-management",
       "title": "Courses Management",
-      "imageUrl": "/assets/images/ManagementApp.png",
+      "imageUrl": "/assets/images/ManagementApp.webp",
       "type": "Website",
       "responsibility": [
         "Web Development",
@@ -326,24 +326,24 @@
       {
         "title": "Communicative",
         "description": "We communicate our project ideas and progress to make it clear.",
-        "imageUrl": "/assets/images/Communicative.png"
+        "imageUrl": "/assets/images/Communicative.webp"
       },
       {
         "title": "Management",
         "description": "We manage our project properly to make our project done well.",
-        "imageUrl": "/assets/images/Management.png"
+        "imageUrl": "/assets/images/Management.webp"
       }
     ],
     [
       {
         "title": "Collaborative​",
         "description": "Our team is very collaborative to make your project well.",
-        "imageUrl": "/assets/images/Collaborative.png"
+        "imageUrl": "/assets/images/Collaborative.webp"
       },
       {
         "title": "Favourite",
         "description": "We've done so many projects and all of our clients love them.",
-        "imageUrl": "/assets/images/Favourite.png"
+        "imageUrl": "/assets/images/Favourite.webp"
       }
     ]
   ],
@@ -352,38 +352,38 @@
       "name": "Kruger Khan",
       "company": "Director, Shultan Oil",
       "testimoni": "I just wanted to let you know that it's been great working with ThirtyDigits.",
-      "imageUrl": "/assets/images/Kruger.jpg"
+      "imageUrl": "/assets/images/Kruger.webp"
     },
     {
       "name": "Reiner John",
       "company": "CEO, Marley Co.",
       "testimoni": "ThirtyDigits is so great. Thank you so much for a job well done.",
-      "imageUrl": "/assets/images/Reiner.jpg"
+      "imageUrl": "/assets/images/Reiner.webp"
     },
     {
       "name": "Abdullah Ali",
       "company": "Owner, Surveyor Corps",
       "testimoni": "Thanks for ThirtyDigits, you guys are the best! Keep up the great work!",
-      "imageUrl": "/assets/images/Abdullah-Ali.jpg"
+      "imageUrl": "/assets/images/Abdullah-Ali.webp"
     }
   ],
   "team": [
     {
       "name": "Samer Al-Sa'dawi",
       "position": "Founder & CEO",
-      "imageUrl": "/assets/images/CEO.jpg",
+      "imageUrl": "/assets/images/CEO.webp",
       "socialUrl": "https://wa.me/970599995488"
     },
     {
       "name": "Samer Al-Sa'dawi",
       "position": "Backend Developer",
-      "imageUrl": "/assets/images/CEO.jpg",
+      "imageUrl": "/assets/images/CEO.webp",
       "socialUrl": "https://wa.me/970599995488"
     },
     {
       "name": "Fouad Habboub",
       "position": "UI/UX Designer",
-      "imageUrl": "/assets/images/uiux.jpg",
+      "imageUrl": "/assets/images/uiux.webp",
       "socialUrl": "https://wa.me/970592593532"
     }
   ]

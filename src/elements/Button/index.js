@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import PropTypes from "prop-types";
+import { string, oneOf, func, object, bool } from "prop-types";
 
 const Button = ({
   onClick,
@@ -68,14 +68,14 @@ Button.defaultProps = {
 };
 
 Button.propTypes = {
-  className: PropTypes.string,
-  type: PropTypes.oneOf(["button", "link", "submit", "reset"]),
-  href: PropTypes.string,
-  onClick: PropTypes.func,
-  target: PropTypes.string,
-  style: PropTypes.object,
-  // children: PropTypes.string,
-  isExternal: PropTypes.bool,
+  className: string,
+  type: oneOf(["button", "link", "submit", "reset"]),
+  href: string,
+  onClick: func,
+  target: string,
+  style: object,
+  // children: string,
+  isExternal: bool,
 };
 
 export default Button;
